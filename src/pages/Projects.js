@@ -26,7 +26,7 @@ const Projects = () => {
       technologies: ["React", "TypeScript", "MUI/Tailwind CSS"],
       image: "https://via.placeholder.com/400x250/10B981/FFFFFF?text=Flight+App",
       github: "#",
-      live: "#",
+      live: "https://harmonious-pika-d53ed5.netlify.app/",
       features: [
         "Responsive frontend using React and TypeScript",
         "Components for inputting and displaying flight data",
