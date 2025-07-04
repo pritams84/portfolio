@@ -53,7 +53,7 @@ const Home = () => {
                   GitHub
                 </a>
                 <a 
-                  href="mailto:pritamsinghrajput8448@gmail.com"
+                  href="https://mail.google.com/mail/u/0/?hl=en#inbox"
                   className="group flex items-center bg-gradient-to-r from-emerald-500 to-emerald-600 hover:from-emerald-600 hover:to-emerald-700 text-white px-6 py-3 rounded-xl font-semibold transition-all duration-300 transform hover:scale-105 hover:shadow-lg shadow-md"
                 >
                   <svg className="w-5 h-5 mr-2 group-hover:rotate-12 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">

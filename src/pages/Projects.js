@@ -7,8 +7,8 @@ const Projects = () => {
       title: "Patient Management System",
       description: "A comprehensive role-based patient management system with three levels of authentication: Admin, Doctor, and Patient. Features include appointment booking, schedule management, and profile management.",
       technologies: ["React", "JavaScript", "Tailwind CSS"],
-      image: "https://via.placeholder.com/400x250/3B82F6/FFFFFF?text=Patient+Management",
-      github: "#",
+      image: "https://acsonnet.com/wp-content/uploads/2021/05/Hospital-Management-System.jpg",
+      github: "https://github.com/pritams84",
       live: "#",
       features: [
         "Role-based authentication system (Admin, Doctor, Patient)",
@@ -24,8 +24,8 @@ const Projects = () => {
       title: "Flight Shortener Web App",
       description: "A modern web application for flight data management with responsive design and intuitive user interface. Built with TypeScript for type safety and enhanced development experience.",
       technologies: ["React", "TypeScript", "MUI/Tailwind CSS"],
-      image: "https://via.placeholder.com/400x250/10B981/FFFFFF?text=Flight+App",
-      github: "#",
+      image: "https://tse4.mm.bing.net/th/id/OIP.psvQA7q9uNQBI-gQyiMS9AHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+      github: "https://github.com/pritams84",
       live: "https://harmonious-pika-d53ed5.netlify.app/",
       features: [
         "Responsive frontend using React and TypeScript",
